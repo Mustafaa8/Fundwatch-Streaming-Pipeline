@@ -1,0 +1,6 @@
+kafka-python
+pyspark
+jupyter
+delta-spark
+great_expectations
+faker
